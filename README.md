@@ -110,12 +110,11 @@ The project includes SQL queries for:
 
 ## Dashboard 1 – Sales Performance Analysis
 
-> *(Add Dashboard 1 Screenshot)*
+
 <img width="1425" height="663" alt="Sales_performance analysis" src="https://github.com/user-attachments/assets/1bf0944e-f54b-478f-a08f-13bf8c6aab79" />
 
 ---
 
 ## Dashboard 2 – Product & Customer Analysis
 
-> *(Add Dashboard 2 Screenshot)*
 > <img width="1425" height="661" alt="Product_customer analysis" src="https://github.com/user-attachments/assets/5aaf3e76-e0cf-4fde-927f-63332c672302" />
