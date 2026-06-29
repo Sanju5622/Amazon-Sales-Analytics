@@ -22,6 +22,13 @@ This project analyzes Amazon sales data using **MySQL, SQL, Power BI, and DAX** 
 - 120K+ Orders
 - 31 Columns
 
+## Dataset
+
+Due to GitHub file size limitations, the dataset is provided as a compressed ZIP file.
+
+File:
+- Amazon_Sales_Dataset.zip
+
 ---
 
 # 📈 Dashboard 1 – Sales Performance Analysis
